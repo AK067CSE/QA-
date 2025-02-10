@@ -1,0 +1,40 @@
+## MCQ 1
+Question: What is Vasanth's specialization within Data Science?
+A) Database Management
+B) Natural Language Processing (NLP) and Large Language Models (LLM)
+C) Statistical Modeling
+D) Data Visualization
+Correct Answer: B
+
+## MCQ 2
+Question: At TechGenius AI, Vasanth led a team that improved the accuracy of NLP models by:
+A) An unspecified percentage (X%)
+B) 25%
+C) 50%
+D) 75%
+Correct Answer: A
+
+## MCQ 3
+Question: Which of the following is NOT a skill listed in Vasanth's profile?
+A) Java
+B) Python
+C) SQL
+D) TensorFlow
+Correct Answer: A
+
+
+## MCQ 4
+Question: Vasanth's project on "Sentiment Analysis of Twitter Data" involved:
+A) Building a recommendation system
+B) Visualizing sentiment trends in a real-time dashboard
+C) Automating text summarization
+D) Identifying topics in news articles
+Correct Answer: B
+
+## MCQ 5
+Question: What degree did Vasanth earn in 2020?
+A) Bachelor of Science in Computer Science
+B) Master of Science in Data Science
+C) PhD in Artificial Intelligence
+D) Bachelor of Arts in Linguistics
+Correct Answer: B
